@@ -1,4 +1,5 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
+import { ProductService } from './../product.service';
 
 import { ProductDescriptionComponent } from './product-description.component';
 
